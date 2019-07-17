@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Gudminton Fiskill Association](/images/gudminton_logo.JPG "Gudminton Fiskill Association")
+
 # Gudminton Rulebook
 This project is to compile and maintain the official rulebook for Gudminton ©, a gentleman's sport.
 
