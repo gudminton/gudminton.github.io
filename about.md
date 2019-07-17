@@ -27,4 +27,4 @@ Clone the repo, and use a markdown editor to edit the appropriat efiles.
 
 ### Contact me
 
-[admin@gudminton.club)](mailto:admin@gudminton.club)
+[admin@gudminton.club](mailto:admin@gudminton.club)
