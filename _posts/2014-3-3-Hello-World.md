@@ -1,9 +1,7 @@
 ---
 layout: post
-title: The Official Gudminton Handbook
+title: The Official Gudminton Handbook of Rules and Regulations
 ---
-
-# THE OFFICIAL GUDMINTON HANDBOOK OF RULES AND REGULATIONS
 
 # Preface
 This edition of the Official Playing Rules of the Gudminton League contains all current rules governing the playing of professional Gudminton that are in effect for the 2019 Gudminton season. 
