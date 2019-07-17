@@ -6,16 +6,6 @@ permalink: /about/
 
 ![Gudminton Fiskill Association](/images/gudminton_logo.JPG "Gudminton Fiskill Association")
 
-# Gudminton Rulebook
-This project is to compile and maintain the official rulebook for Gudminton ©, a gentleman's sport.
-
-# Getting Started
-Clone the repo, and use a markdown editor to edit the appropriat efiles.
-
-# Authors
-- Wilson Soto - *Initial work*
-- See also the list of contributors who participated in this project.
-
 # Acknowledgments
 - The Founding Fathers: 
  \
