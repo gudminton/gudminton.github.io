@@ -12,6 +12,8 @@ Copyright © 2019 by The Gudminton Commission. All rights reserved. No part of t
 
 Printed in the United States of America.
 
+![Gudminton Rule Book](/images/gudminton_rulebook.JPG "Gudminton Rule Book")
+
 # Contents
 - Basic Gudminton rules
 - Plan of the court
