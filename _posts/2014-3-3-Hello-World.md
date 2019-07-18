@@ -16,24 +16,37 @@ Printed in the United States of America.
 
 # Contents
 - Basic Gudminton rules
+- Terminology
 - Plan of the court
-- Order of the rules
+- Full Gudminton rules
 
 # Basic Gudminton rules
 
-- 4-10 players on the court at any one time
-- Games are played to 21 points
+Players:
+- 4-12 players on the court at any one time
+
+Serve:
 - Players serve 5 serves each, alternating sides. A player does not have to win specifically off their own serve in order to win a point.
+- The first ground hit after the serve must be within the boundary lines. 
+- The ball may be played off the net.
+
+Points and Gameplay:
+- Games are played to 21 points
+- The official approved ball is the size 5 soccer ball.
 - Maximum of 2-3 ground hits per side
-- No limits to body hits or juggles
-- Points are made on every serve for winning team of rally (rally-point scoring)
+- A ball that rolls or otherwise does not bounce ends the play 
 - A player may hit the ball more than once in succession.
-- Ball may be played off the net or surrounding fences during a volley and on a serve.
-- A ball hitting a boundary line is in.
+- There are no limits to body hits or juggles
+- Points are made on every serve for winning team of rally (rally-point scoring)
 - It is illegal to contact the ball with a player's hands, lower arms, and elbows.
 - It is illegal to use your hands to catch, hold or throw the ball.
-- The official approved ball is the size 5 soccer ball.
+- Ball may be played off the net or surrounding fences.
 
+# Terminology
+- A flat ball (no bounce either due to player interaction or hitting a corner or the net) is called a "potato"
+- A flat ball that rolls is called a "hot potato"
+- A game of 6-on-6 is called "a gentleman's dozen"
+- "Good gudminton" is an end-of-game expression used by team members as they shake hands and congratulate each other
 
 # Plan of the court
 
@@ -51,20 +64,28 @@ The lines at the ends of the courts are called baselines and the lines at the si
 
 ## 2. The Ball
 
+<To be filled>
+
 ## 3. Score in a game
 
-## 4. Server
+<To be filled>
+
+## 4. Serve
 
 The teams stand on opposite sides of the net. The serving team is the team who puts the ball into play. The receiving team is the team who is ready to return the ball served.
 
-The serving team 
+<To be filled>
 
 ## 5. Players, Substitutes, Equipment, General Rules
 
+<To be filled>
+  
 ## 6. Ball in Play, Dead Ball, Serve
 
-References:
+<To be filled>
+  
 
+References:
 Tennis Rulebook
 https://www.usta.com/content/dam/usta/officiating/2019%20Friend%20at%20Court.pdf
 
